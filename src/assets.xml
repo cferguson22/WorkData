@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets>
+    <asset>
+        <assetName>Test1</assetName>
+        <ipAddress>192.168.1.110</ipAddress>
+        <partNumber>1234</partNumber>
+        <standard>250</standard>
+        <partsPerHour>249</partsPerHour>
+    </asset>
+    <asset>
+        <assetName>Test2</assetName>
+        <ipAddress>192.168.1.111</ipAddress>
+        <partNumber>1234</partNumber>
+        <standard>250</standard>
+        <partsPerHour>249</partsPerHour>
+    </asset>
+</assets>
